@@ -1,0 +1,20 @@
+1) Título:
+Login valido
+2) Resumo:
+Caso de teste para validar o acesso do login padrao
+3) URL:
+https://www.saucedemo.com/
+4) Passos (Pré-requisitos + Passo a passo)
+Pré-requisito:
+- Entrar na página https://www.saucedemo.com/
+Passo a passo:
+4.1) Inserir em "Username" o usuário "standard_user"
+4.2) Inserir em "Password" a senha "secret_sauce"
+4.3) Clicar em "Login"
+
+5) Resultado (validações):
+- Foi redirecionado para a tela de "Produtos" (Products)
+
+2)Login inválido - Usuário errado
+
+3)Login inválido - Senha errada
